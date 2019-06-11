@@ -10,4 +10,3 @@ console.log(123*2)
 console.log(802/2)
 console.log((5+6)*3)
 console.log(undefined || null)
-git 
