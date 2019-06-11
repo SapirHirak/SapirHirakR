@@ -1,0 +1,36 @@
+.foo {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+
+}
+
+.foo2 {
+        background-color: red;
+        width: 200px;
+        height: 20px;
+        position: absolute;
+        top: 20px;
+
+}
+.foo3 {
+    background-color: red;
+    width: 20px;
+    height: 200px;
+    position: absolute;
+    left: 20px;
+}
+
+.q2foo{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+}
+
+.q2foo2 {
+
+}
+

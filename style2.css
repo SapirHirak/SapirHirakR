@@ -1,0 +1,26 @@
+#container {
+    background: #03bbbb ;
+    width: 250px;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+#first{
+    background-color: #ff0800;
+}
+#second{
+    background-color: black;
+}
+.foo {
+    padding: 40px;
+    background-color: #ff0800;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20 px;
+    margin-top: 10px;
+    border: 30px solid rgb(42, 62, 179);
+    
+}

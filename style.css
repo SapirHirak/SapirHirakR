@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(247, 186, 186);
+    background:  rgb(207, 94, 170) ;
+  }
+
+  span {
+      background: paleturquoise
+  }
+#SapSap {
+    width: 50px;
+    height: 50px;
+    background-color: #e74c3c;
+        font-family: sans-serif;
+  }
+
+  .heading {
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  
+  .tomato {
+    color: tomato;
+  }
+  
+  .gross-color {
+    color: #a3c010;
+  }
+  
+  .nice-color {
+    color: #03bbbb;
+  }
+  body {
+       background-color: rgb(252, 212, 212) ;
+     }
+   .box #first {
+         color: aqua ;
+     }
+     #container {
+         background: #03bbbb ;
+     }
+  
+  
+  
+  
