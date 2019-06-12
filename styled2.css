@@ -31,6 +31,73 @@
 }
 
 .q2foo2 {
-
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 20px;
+    bottom: 2px;
+}
+.q2foo3 {
+    background-color: red;
+    width: 20px;
+    height: 40px;
+    position: absolute;
+    left: 50px;
+    bottom: 2px;
+}
+.q3foo {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 600px;
 }
 
+ #one {
+    background-color: rgb(241, 241, 241);
+    width: 50%;
+    height: 400px;
+    position: absolute;
+    top:0px;
+    left:120px;
+}
+
+#two {
+    background-color: grey;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+#tree{
+    background-color: grey;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top:0px;
+    left:300px;
+}
+
+.choco {
+    background-color: black;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    top:800px;
+}
+
+.choco1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color:brown;
+    margin: 3px;
+    border: solid black;
+}
+
+#b {
+    left: 42px;
+}
